@@ -8,11 +8,17 @@ Built with **React** on the frontend and **Flask** on the backend, following RES
 ## 🚀 Features
 
 - Create new contacts (First Name, Last Name, Email)
+  
 - View all saved contacts in a tabular format
+  
 - Update existing contacts using a reusable modal form
+  
 - Delete contacts with instant UI refresh
+  
 - RESTful API integration between frontend and backend
+  
 - Persistent data storage using SQLite
+  
 - Clean state management with React Hooks
 
 ---
@@ -109,18 +115,27 @@ http://localhost:5173
 🧠 Key Learnings:
 
 -Managing component state and props in React
+
 -Using useEffect for syncing props with state
+
 -Building reusable forms for Create & Update operations
+
 -Implementing REST APIs with Flask
+
 -Connecting frontend and backend using HTTP methods
+
 -Handling real-world bugs and debugging full-stack issues
 
 
 📌 Future Improvements:
 
 -Confirmation modal for delete action
+
 -Form validation (email format, required fields)
+
 -Environment variables for API URLs
+
 -Authentication & user-based contacts
+
 -Deployment on Vercel (frontend) and Render (backend)
 
