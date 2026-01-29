@@ -113,31 +113,31 @@ http://localhost:5173
 
 
 
-🧠 Key Learnings:
+###🧠 Key Learnings:
 
--Managing component state and props in React
+- Managing component state and props in React
 
--Using useEffect for syncing props with state
+- Using useEffect for syncing props with state
 
--Building reusable forms for Create & Update operations
+- Building reusable forms for Create & Update operations
 
--Implementing REST APIs with Flask
+- Implementing REST APIs with Flask
 
--Connecting frontend and backend using HTTP methods
+- Connecting frontend and backend using HTTP methods
 
--Handling real-world bugs and debugging full-stack issues
+- Handling real-world bugs and debugging full-stack issues
 
 
 
-📌 Future Improvements:
+###📌 Future Improvements:
 
--Confirmation modal for delete action
+- Confirmation modal for delete action
 
--Form validation (email format, required fields)
+- Form validation (email format, required fields)
 
--Environment variables for API URLs
+- Environment variables for API URLs
 
--Authentication & user-based contacts
+- Authentication & user-based contacts
 
--Deployment on Vercel (frontend) and Render (backend)
+- Deployment on Vercel (frontend) and Render (backend)
 
