@@ -112,6 +112,7 @@ Frontend runs on:
 http://localhost:5173
 
 
+
 🧠 Key Learnings:
 
 -Managing component state and props in React
@@ -125,6 +126,7 @@ http://localhost:5173
 -Connecting frontend and backend using HTTP methods
 
 -Handling real-world bugs and debugging full-stack issues
+
 
 
 📌 Future Improvements:
