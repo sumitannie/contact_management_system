@@ -40,44 +40,25 @@ Built with **React** on the frontend and **Flask** on the backend, following RES
 ---
 
 ## 📂 Project Structure
-
+```bash
 contact_management_system/
 │
-
 ├── frontend/ # React frontend
-
 │ ├── src/
-
 │ │ ├── App.jsx
-
 │ │ ├── ContactList.jsx
-
 │ │ ├── ContactForm.jsx
-
 │ │ └── main.jsx
-
 │ └── package.json
-
 │
 ├── backend/ # Flask backend
-
 │ ├── main.py
-
 │ ├── models.py
-
 │ ├── config.py
-
 │ └── requirements.txt
-
 │
-
 └── README.md
-
-
---
-
-
----
+```
 
 ## 🔗 API Endpoints
 
